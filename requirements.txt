@@ -3,5 +3,5 @@ requests == 2.24.0
 bs4 == 4.9.3
 pandas == 1.2.3
 numpy == 1.19.2
-nltk == 3.5
+nltk == 3.9
 sklearn == 0.23.2
